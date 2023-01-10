@@ -1,0 +1,94 @@
+#container_calculadora{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: maroon;
+    width: 400px;
+    height: 600px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+    border: 2px solid black;
+}
+
+body{
+    background-color:gray;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#titulo{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    width: 100%;
+    height: 50px;
+    border-bottom: 2px solid black;
+}
+
+#entrada{
+    width: 300px;
+    height: 50px;
+}
+
+#btn button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 40px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium';
+    border: none;
+}
+
+#btn button:hover{
+    background-color: gray;
+    color: red;
+}
+
+#resultado{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    border-radius: 10px;
+    height: 150px;
+    width: 300px;
+}
+
+input{
+    width: 200px;
+    height: 50px;
+    border-style: none;
+    border-radius: 10px;
+    font-family:'Franklin Gothic Medium';
+    font-size: 20px;
+}
+
+label{
+    font-size: 20px;
+    color: gray;
+}
+
+h1{
+    color: gray;
+    font-family: 'Franklin Gothic Medium';
+}
+
+.peso{
+    padding-right: 15px;
+}
+
+p{
+    width: 300px;
+    height: 100px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
