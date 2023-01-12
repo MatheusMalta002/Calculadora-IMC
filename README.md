@@ -1,6 +1,6 @@
 <h1>Calculadora IMC</h1>
 
-<p>O principal objetivo desse mini projeto é praticar meus conhecimentos de Javascript, além disso, um praticar um poco de HTML E CSS.
+<p>O principal objetivo desse mini projeto é praticar meus conhecimentos de Javascript, além disso, um praticar um pouco de HTML E CSS.
 <br>
 <h2>Print do projeto</h2>
 
